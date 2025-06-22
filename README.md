@@ -12,23 +12,6 @@
 
 #### 📊 Tableau Desktop – Visual storytelling and interactive dashboarding
 
-## 📂 Project Files
-
-#### 📂 Project Structure
- 
-Sales_Analysis_Raw.xlsx – Raw sales dataset (sourced from ChatGPT)
- 
- Sales_Analysis_Final.xlsx – Cleaned and structured data for Tableau
-
-#### 📁 Dashboard/
-
-Dashboard.twb – Final Tableau workbook
-
-#### 📁 Images/
-
-dashboard_preview.png – Screenshot of the final Charts
-
-
 ## 📊 Dashboard Highlights
 
 - 📅 Sales Trends Over Time (Monthly & Yearly)
@@ -72,6 +55,27 @@ Each sheet in Tableau contributes a distinct view that supports a holistic under
 - Consolidating multiple worksheet insights into a single dashboard view
 
 - Building a business narrative through data visualization
+
+## 📂 Project Files
+
+#### 📂 Project Structure
+ 
+- Sales_Analysis_Raw.xlsx – Raw sales dataset (sourced from ChatGPT)
+ 
+-  Sales_Analysis_Final.xlsx – Cleaned and structured data for Tableau
+
+#### 📁 Dashboard/
+
+- Dashboard.twb – Final Tableau workbook
+
+#### 📁 Images/
+![Screenshot 2025-06-22 101358](https://github.com/user-attachments/assets/cc0d36a8-d85d-4fe6-bfd6-c4633a2e1e30)
+![Screenshot 2025-06-22 102704](https://github.com/user-attachments/assets/85728ba7-02d0-4b03-9018-02610af63f9e)
+![Screenshot 2025-06-22 103754](https://github.com/user-attachments/assets/e8781de3-646b-41d9-a9f6-8d97ed74b9e0)
+![Screenshot 2025-06-22 104647](https://github.com/user-attachments/assets/d88b15d7-f20d-422a-929c-064a0814b5e1)
+![Screenshot 2025-06-22 105141](https://github.com/user-attachments/assets/d17c2f45-7e93-4781-b4ae-53ec48bc92c8)
+
+
 
 ## 🔗 Dataset Source
 
