@@ -12,19 +12,21 @@
 
 #### 📊 Tableau Desktop – Visual storytelling and interactive dashboarding
 
-**📂 Project Structure**
- 
- Data/sales_data_raw.xlsx – Raw sales dataset (sourced from ChatGPT)
- 
- sales_data_cleaned.xlsx – Cleaned and structured data for Tableau
+## 📂 Project Files
 
-**📁 Dashboard/**
+#### 📂 Project Structure
+ 
+Sales_Analysis_Raw.xlsx – Raw sales dataset (sourced from ChatGPT)
+ 
+ Sales_Analysis_Final.xlsx – Cleaned and structured data for Tableau
+
+#### 📁 Dashboard/
 
 Dashboard.twb – Final Tableau workbook
 
-**📁 Images/**
+#### 📁 Images/
 
-dashboard_preview.png – Screenshot of the final dashboard (add this file)
+dashboard_preview.png – Screenshot of the final Charts
 
 
 ## 📊 Dashboard Highlights
