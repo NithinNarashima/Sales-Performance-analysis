@@ -82,3 +82,10 @@ Each sheet in Tableau contributes a distinct view that supports a holistic under
 ## 🔗 Dataset Source
 
 - The dataset used in this project was generated using ChatGPT and tailored for educational and portfolio use.
+
+## 👤 Author
+
+**R. Nithin Narashima**  
+Fresher | Pursuing Data Analytics  
+Skilled in Python, Excel, SQL, Tableau, Power BI  
+Tamil Nadu, India
